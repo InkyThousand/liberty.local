@@ -1,0 +1,2 @@
+<div id="content-title"><h2>Welcome To Liberty Pumps Parts Store.</h2></div>
+<div id="content-section"><p align="left">If you wish to order parts for liberty pumps click on <b>Order Parts Online</b> from the menu on the left.</p></div>

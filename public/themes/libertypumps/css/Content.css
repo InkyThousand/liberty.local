@@ -1,0 +1,148 @@
+/*Headings*/
+h1{ font-size:18px; margin:0; }
+h2{ font-size:16px; margin:0;font-weight:bold; }
+h3{ font-size:14px; margin:0; }
+h4{ font-size:12px; margin:0; }
+h5{ font-size:10px; margin:0; }
+hr{
+    background:#EEE;
+    border-bottom:2px solid #F3F3F3;
+    border-top:1px solid #CCC;
+    border-left:0;
+    border-right:0;
+    color:#EEE;
+    height:3px;
+}
+/*Content*/
+div,
+table,
+.content{
+    color:#231f20;
+    font-family:verdana,tahoma,sans-serif;
+    font-size:12px;
+    line-height:16px;
+}
+img{
+    border-width:0px;
+}
+/*DataGrid*/
+.grid{
+    font:11px verdana,tahoma,sans-serif;
+}
+.grid-header{
+    background-color:#999;
+    color:#FFF;
+    font:bold 11px verdana,tahoma,sans-serif;
+}
+.grid-item{
+    background-color:#F9F9F9;
+}
+.grid-item-alt{
+    background-color:#F0F0F0;
+}
+.grid-item-edit{
+    background-color:#FED;
+}
+.pager,
+.pager td{
+    color:#CCC;
+    font:11px verdana,tahoma,sans-serif;
+}
+/*Styles for Rep Literature Order Form*/
+.MarketingPieceItem{
+    border:1px solid #000;
+    height:20px;
+    width:550px;
+    font-size:10px;
+    float:left;
+    display:inline;
+}
+.MarketingPieceQuantity{
+    border:1px solid #000;
+    border-collapse:collapse;
+    width:80px;
+    height:20px;
+    float:left;
+    display:inline;
+}
+
+/* Faq styling - this should duplicate the Child-Nav css in navigation.css */
+/*ChildNavigation*/
+.ShowHideMain{
+    margin:0;
+    padding:0;
+    width:248px !important;
+    _width:250px !important;
+    padding-top:3px;
+    
+}
+
+div.togglecategory{
+    margin:0;
+    padding:0;
+}
+.togglecategory a,
+.togglecategory a:visited{
+    background-position:8px 8px;
+    background-repeat:no-repeat;
+    border-bottom:1px solid #bb9f76;
+    display:block;
+    padding:4px 0 6px 21px;
+    text-decoration:none;
+}
+.togglecategory a:link,
+.togglecategory a:visited{
+    background-image:url(@theme_root/Images/Nav/childnav-arrow.png);
+    color:#fff;
+}
+
+.togglecategory a:hover{
+    background-color:#aa885a;
+    background-image:url(@theme_root/Images/Nav/childnav-arrow.png);
+    color:#fff;
+    text-decoration:underline;
+}
+.togglecategory a.expand,
+.togglecategory a.expand:visited{
+    background-position:6px 8px;
+    color:#fff;
+    background-image:url(@theme_root/Images/Nav/childnav-arrow-expand.png) !important;
+    border-bottom:0px solid #bb9f76 !important;
+}
+.togglecategory a.expand:hover{
+    background-color:#aa885a;
+    background-image:url(@theme_root/Images/Nav/childnav-arrow-expand.png);
+    color:#fff;
+    text-decoration:underline;
+    border-bottom:0px solid #bb9f76 !important;
+}
+
+.togglediv {
+    background-color:#bc9764;
+}
+.togglediv a:link,
+.togglediv a:visited
+{
+    background-image:url(@theme_root/Images/Nav/childnav-arrow-depth1.png) !important;
+    color:#fff;
+    border-bottom:0px solid #bb9f76 !important;
+}
+.togglediv a:hover{
+    background-color:#bc9764;
+    background-image:url(@theme_root/Images/Nav/childnav-arrow-depth1.png) !important;
+    color:#fff;
+    border-bottom:0px solid #bb9f76 !important;
+}
+
+#questiondiv
+{
+    font-size:16px;
+    margin-bottom:20px;
+}
+
+#answerdiv
+{
+    padding-left:10px;
+}
+
+/* Styles available in RadEditor: Classes below should be duplicated in /RadControls/Editor/Style.css */

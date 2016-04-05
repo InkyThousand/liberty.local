@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root><options><autoincrement>1</autoincrement></options><fields><login/><password/><email/><role/><date_registered/><firstname/><lastname/><login/><twitter/><skype/><hash/><about_me/></fields><users><id>1</id><uid>c88a32793a</uid><firstname/><lastname/><twitter/><skype/><about_me/><login>admin</login><email>razoru@pochta.ru</email><hash>0moqNJO53TDz</hash><date_registered>1369223771</date_registered><role>admin</role><password>aa484c0017f46ea6502ba0b93883023f</password></users></root>

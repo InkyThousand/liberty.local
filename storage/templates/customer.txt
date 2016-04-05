@@ -1,0 +1,34 @@
+﻿Dear %CUSTOMER_NAME%,
+
+Thank you for your order from http://www.libertypumps.com!
+Your order has been received.
+
+Your order confirmation number is: %ORDER_ID%
+Order date: %ORDER_DATE%
+
+%ORDER_CONTENTS%
+
+%SHIPPING_INFO_START%
+-----Shipping Address--------------------
+Shipping Method: %METHOD%
+Address1: %ADDRESS1%
+Address2: %ADDRESS2%
+City: %CITY%
+Postal Code: %POSTAL_CODE%
+Country: %COUNTRY%
+State: %STATE%
+Email: %EMAIL%
+Phone Number: %PHONE%
+--------------------------------------------
+%SHIPPING_INFO_END%
+
+If you have questions, or would like to change or check on your order,
+please call our On-line Support Line: 1-800-543-2550.  Representatives
+are available to help you with your online order M-F 8-5.
+
+Please feel free to visit http://www.LibertyPumps.com at any
+time to place additional orders.
+
+Thank you!
+
+Liberty Pumps Customer Service

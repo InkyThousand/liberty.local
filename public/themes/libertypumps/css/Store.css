@@ -1,0 +1,339 @@
+/* Pending Order List */
+
+table.pending_orders
+{
+  border-collapse: collapse;
+  font-family: Arial;
+  font-size: 12px;
+  border: 1px #000000 solid;
+  width:524px;
+}
+
+tr.pending_orders_header td
+{
+  background-color: #e5d7b9;
+  padding: 5px;
+  text-align: left;
+  color: #000;
+  font-weight: bold;
+  text-align: center;
+}
+
+table.pending_orders td
+{
+  border-left: 0px;
+  border-bottom: 1px #000000 solid;
+  border-right: 1px #000000 solid;
+  padding: 5px;
+}
+
+tr.pending_orders_item_odd td
+{
+  padding: 5px;
+  color: #453e27;
+  text-align: center
+}
+
+tr.pending_orders_item_even td
+{
+  background-color: #f0eeda;
+  padding: 5px;
+  color: #453e27;
+  text-align: center
+}
+
+/* Order Details */
+
+table.order_info
+{
+  border-collapse: collapse;
+  font-family: Arial;
+  font-size: 13px;
+  width:524px;
+  margin-bottom: 10px;
+}
+
+table.order_details
+{
+  border-collapse: collapse;
+  font-family: Arial;
+  font-size: 12px;
+  border: 1px #000000 solid;
+  width:524px;
+}
+
+tr.order_details_header td
+{
+  background-color: #e5d7b9;
+  padding: 5px;
+  text-align: left;
+  color: #000;
+  font-weight: bold;
+  text-align: center;
+}
+
+table.order_details td
+{
+  border-left: 0px;
+  border-bottom: 1px #000000 solid;
+  border-right: 1px #000000 solid;
+  padding: 5px;
+}
+
+tr.order_details_item_odd td
+{
+  padding: 5px;
+  color: #453e27;
+  text-align: left
+}
+
+/* Checkout forms and fields */
+
+form
+{
+  padding: 0px;
+  margin: 0px;
+}
+
+.field_error
+{
+  font-family: Arial;
+  font-size: 12px;
+  color: #b94a48;
+}
+
+/* Login form */
+
+table.login_form
+{
+  padding-left: 25px;
+  border: 0px;
+  font-family: Arial;
+  font-size: 12px;
+}
+
+table.login_form tr
+{
+  vertical-align: top;
+}
+
+.login_error
+{
+  font-family: Arial;
+  font-size: 12px;
+  color: #b94a48;
+  text-align: center;
+  padding: 10px;
+}
+
+.login_form input[type="text"]
+{
+  border: 1px black solid;
+  width: 150px;
+}
+
+.login_form input[type="password"]
+{
+  border: 1px black solid;
+  width: 100px;
+}
+
+/* Registration form */ 
+
+table.registration_form
+{
+  padding-left: 25px;
+  border: 0px;
+  font-family: Arial;
+  font-size: 12px;
+}
+
+table.registration_form tr
+{
+  vertical-align: top;
+}
+
+.registration_form input[type="text"]
+{
+  border: 1px black solid;
+  width: 250px;
+}
+
+.registration_form input[type="password"]
+{
+  border: 1px black solid;
+  width: 150px;
+}
+
+.registration_error
+{
+  font-family: Arial;
+  font-size: 12px;
+  color: #b94a48;
+  text-align: center;
+  padding: 10px;
+}
+
+/* Restore password form */
+
+table.restore_password_form
+{
+  padding-left: 25px;
+  border: 0px;
+  font-family: Arial;
+  font-size: 12px;
+}
+
+table.restore_password_form tr
+{
+  vertical-align: top;
+}
+
+.restore_password_error
+{
+  font-family: Arial;
+  font-size: 12px;
+  color: #b94a48;
+  text-align: center;
+  padding: 10px;
+}
+
+.restore_password_form input[type="text"]
+{
+  border: 1px black solid;
+  width: 150px;
+}
+
+.restore_password_form input[type="password"]
+{
+  border: 1px black solid;
+  width: 100px;
+}
+
+/* Shipping type */
+
+.shipping_types
+{
+  list-style-type: none;
+  list-style-position: outside;
+  padding-left:20px;
+  padding-top: 0px;
+}
+
+/* Contact details */
+
+table.contact_details
+{
+  margin-left: 25px;
+  border: 0px;
+  font-family: Arial;
+  font-size: 12px;
+}
+
+table.contact_details tr
+{
+  vertical-align: top;
+}
+
+#shipping_contact_name 
+{
+  border: 1px #000 solid;
+  width: 200px;
+}
+
+#shipping_contact_phone
+{
+  border: 1px #000 solid;
+  width: 150px;
+}
+
+#shipping_contact_after
+{
+  border: 1px #000 solid;
+  width: 80px;
+}
+
+#shipping_contact_before
+{
+  border: 1px #000 solid;
+  width: 80px;
+}
+
+#shipping_time_zone
+{
+  border: 1px #000 solid;
+  width: 380px;
+}
+
+/* Checkout mode */
+
+ul.shipping_types li
+{
+  padding-bottom: 10px;
+}
+
+ul.shipping_types input[type=radio]
+{
+  vertical-align:middle;margin-top:-3px
+}
+
+#checkout_mode
+{
+  border-collapse: collapse;
+  font-family: Arial;
+  font-size: 13px;
+  margin-left: 15px;
+}
+
+#checkout_mode td
+{
+  padding: 5px;
+}
+
+.page_error
+{
+  font-family: Arial;
+  font-size: 13px;
+  color: #b94a48;
+}
+
+.submitButton
+{
+  font:bold 12px ms sans serif,sans-serif;
+  color:#FFFFFF;
+  background:#A52429;
+  border:2 solid #000000;
+}
+
+table.rates
+{
+  border-collapse: collapse;
+  border: 1px #AAAAAA solid;
+  width: 100%;
+}
+
+.rates_header
+{
+  background-color: #888888;
+  font-weight: bold;
+}
+
+table.rates td
+{
+  text-align: left;
+  padding: 5px;
+  border: 1px #AAAAAA solid;
+  vertical-align: middle;
+}
+
+.distributorButton
+{
+  font:bold 12px ms sans serif, sans-serif;
+  color:#FFFFFF;
+  background:#A52429;
+  border:2 solid #000000;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  height: 30px;
+  width: 70px;
+}

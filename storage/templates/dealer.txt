@@ -1,0 +1,38 @@
+TEST - DO NOT SHIP -TEST - DO NOT SHIP -TEST - DO NOT SHIP -TEST - DO NOT SHIP 
+
+Order Id: %ORDER_ID%
+Order Number: %ORDER_NUMBER%
+Order Date: %ORDER_DATE%
+
+%ORDER_CONTENTS%
+
+----------------------------------------------------------------------------------
+TEST - DO NOT SHIP -TEST - DO NOT SHIP -TEST - DO NOT SHIP -TEST - DO NOT SHIP -TEST - DO NOT SHIP
+
+Shipping Information
+
+Shipping Type: %SHIPPING_TYPE%
+Shipping Method: %SHIPPING_METHOD%
+Customer Name: %CUSTOMER_NAME%
+Address1: %SHIPPING_ADDRESS1%
+Address2: %SHIPPING_ADDRESS2%
+City: %SHIPPING_CITY%
+Postal Code: %SHIPPING_POSTAL_CODE%
+Country: %SHIPPING_COUNTRY%
+State: %SHIPPING_STATE%
+Email: %SHIPPING_EMAIL%
+Phone Number: %SHIPPING_PHONE%
+
+----------------------------------------------------------------------------------
+
+Comments: %COMMENTS%
+Shipping Instructions: %SHIPPING_INSTRUCTIONS%
+
+----------------------------------------------------------------------------------
+Payment Information
+
+Payment Type: %PAYMENT_TYPE%
+Transaction Id: %TRANSACTION_ID%
+Payment Date: %PAYMENT_DATE%
+Payment Status: %PAYMENT_STATUS%
+----------------------------------------------------------------------------------

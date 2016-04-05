@@ -1,0 +1,118 @@
+/*Forms*/
+form{
+    display:inline;
+    margin:0;
+    padding:0;
+}
+.form{
+    background:#FFF url(@theme_root/Images/Form/bg_form.gif) repeat-x;
+    border:1px inset #999;
+    color:#000;
+    font:11px sans-serif;
+}
+textarea.form{
+    background:#FFF url(@theme_root/Images/Form/bg_textarea.gif) repeat-x;
+    border:1px inset #999;
+    color:#000;
+    font:11px sans-serif;
+}
+.form-disabled,
+textarea.form-disabled{
+    background:#EEE;
+    border:1px solid #999;
+    color:#999;
+    font:11px sans-serif;
+}
+/*doesn't work in IE7-, just fluff for better browsers*/
+.form:focus,
+textarea.form:focus{
+    border:1px inset #333;
+}
+.form-cancel{
+    background:#DDD url(@theme_root/Images/Form/bg_button_cancel.gif) repeat-x;
+    border:1px outset #AAA;
+    color:#444;
+    font:bold 11px arial,helvetica,sans-serif;
+}
+.form-submit{
+    background:#442216 url(@theme_root/Images/Form/bg_button.gif) repeat-x;
+    border:1px outset #442216;
+    color:#FFF;
+    font:bold 11px arial,helvetica,sans-serif;
+}
+.form-submit-disabled,
+.form-cancel-disabled{
+    background:#CCC;
+    border:1px solid #999;
+    color:#999;
+    font:normal 11px arial,helvetica,sans-serif;
+}
+/*Form Text*/
+.form-table tr{
+    vertical-align:top;
+}
+.form-label{
+    font:11px tahoma,verdana,sans-serif;
+}
+.error{
+    color:#F00;
+}
+.error-box{
+    background-color:#FEE;
+    border:1px solid #F99;
+    color:#F00;
+    padding:4px;
+}
+.error-box ul{
+    margin:0 0 0 20px;
+    padding:0;
+}
+.error-bullet{
+    border:0;
+    height:16px;
+    vertical-align:middle;
+    width:16px;
+}
+.help{
+    color:#636;
+    font-size:11px;
+    font-weight:normal;
+}
+.required{
+    font-weight:bold;
+}
+/*LS ImageUpload*/
+.form-upload{
+    border-collapse:collapse;
+    padding:0;
+}
+.form-upload img{
+    vertical-align:middle;
+}
+.form-upload input{
+    background-color:#FFF;
+    border:1px inset #CCC;
+    color:#999;
+    font:11px sans-serif;
+}
+/*MetaBuilders DualList*/
+.duallist-buttonstyle{
+    background:#CCC;
+    border:1px outset #DDD;
+    color:#000;
+    font:bold 10px verdana,tahoma,sans-serif;
+    margin-bottom:2px;
+    padding:2px 0;
+    text-transform:uppercase;
+    width:75px;
+}
+.duallist-listbox{
+    border:1px inset #DDD;
+    color:#000;
+    font:10px verdana,tahoma,sans-serif;
+    width:150px;
+}
+.duallist td{
+    color:#333;
+    font:bold 10px verdana,tahoma,sans-serif;
+}

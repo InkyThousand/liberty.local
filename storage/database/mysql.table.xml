@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root><options><autoincrement>1</autoincrement></options><fields><host/><user/><password/><database/></fields><mysql><id>1</id><host>localhost</host><user>ds_libertypumps</user><password>ds_libertypumps</password><database>dealerstores_libertypumps</database></mysql></root>

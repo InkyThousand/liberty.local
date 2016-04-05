@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.014/cXML.dtd"[]>
+<cXML xml:lang="en-US" payloadID="20140417174944_0001_181972" timestamp="2014-04-17T17:49:44-0600">
+    <Request>
+        <OrderRequest>
+            <OrderRequestHeader orderID="20140417174944_0001_181972" orderDate="2014-04-17T17:49:44-0600">
+                <Total>
+                    <Money currency="USD">19.81</Money>
+                </Total>
+                <ShipTo>
+                    <Address>
+                        <Name xml:lang="en-US">
+                        </Name>
+                        <PostalAddress>
+                            <DeliverTo>
+                            </DeliverTo>
+                            <FullName>Lee J Shultz</FullName>
+                            <Street>1341 Route 52</Street>
+                            <Street>
+                            </Street>
+                            <City>Carmel</City>
+                            <State>NY</State>
+                            <PostalCode>10512</PostalCode>
+                            <Country>US</Country>
+                        </PostalAddress>
+                        <Email>razor@ua.sysonline.com</Email>
+                        <Phone name="work">
+                            <TelephoneNumber>
+                                <CountryCode isoCountryCode="US">1</CountryCode>
+                                <AreaOrCityCode>845</AreaOrCityCode>
+                                <Number>878-9873</Number>
+                            </TelephoneNumber>
+                        </Phone>
+                    </Address>
+                </ShipTo>
+                <Comments>
+                </Comments>
+                <Extrinsic name="OrderType">
+                </Extrinsic>
+                <Extrinsic name="PurchaseOrderNumber">
+                </Extrinsic>
+                <Extrinsic name="SessionId">
+                </Extrinsic>
+            </OrderRequestHeader>
+            <ItemOut quantity="1">
+                <ItemID>
+                    <SupplierPartID>K001023</SupplierPartID>
+                    <SupplierPartAuxiliaryID />
+                </ItemID>
+                <ItemDetail>
+                    <UnitPrice>
+                        <Money currency="USD">19.81</Money>
+                    </UnitPrice>
+                    <Description xml:lang="en">IMPELLER KIT, INCLUDES SHAFT CAP, COVER SEAL AND COVER SCREWS</Description>
+                    <UnitOfMeasure />
+                </ItemDetail>
+            </ItemOut>
+        </OrderRequest>
+    </Request>
+</cXML>

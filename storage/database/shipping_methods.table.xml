@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<options>
+		<autoincrement>146</autoincrement>
+	</options>
+	<fields>
+		<id/>
+		<service_code/>
+		<shipper/>
+		<name/>
+		<delivery/>
+		<national/>
+		<limit_low/>
+		<limit_high/>
+		<active/>
+	</fields>
+	<shipping_methods>
+		<id>1</id>
+		<service_code>4</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Ground</name>
+		<delivery/>
+		<national>1</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>2</id>
+		<service_code>1</service_code>
+		<shipper>ups</shipper>
+		<name>UPS 2nd Day Air®</name>
+		<delivery>2 days</delivery>
+		<national>1</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>18</id>
+		<service_code>2</service_code>
+		<shipper>ups</shipper>
+		<name>UPS 2nd Day Air A.M.®</name>
+		<delivery>2 days</delivery>
+		<national>1</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>23</id>
+		<service_code>3</service_code>
+		<shipper>ups</shipper>
+		<name>UPS 3 Day Select®</name>
+		<delivery>3 days</delivery>
+		<national>1</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>20</id>
+		<service_code>5</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Next Day Air®</name>
+		<delivery>1 day</delivery>
+		<national>1</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>22</id>
+		<service_code>7</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Next Day Air Saver®</name>
+		<delivery>1 day</delivery>
+		<national>1</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>139</id>
+		<service_code>18</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Today Standard&lt;sup&gt;SM&lt;/sup&gt;</name>
+		<delivery/>
+		<national>1</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>140</id>
+		<service_code>19</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Today Dedicated Courrier&lt;sup&gt;SM&lt;/sup&gt;</name>
+		<delivery/>
+		<national>1</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>142</id>
+		<service_code>21</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Today Express</name>
+		<delivery/>
+		<national>1</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>143</id>
+		<service_code>22</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Today Express Saver</name>
+		<delivery/>
+		<national>1</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>66</id>
+		<service_code>6</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Next Day Air® Early A.M. &lt;sup&gt;SM&lt;/sup&gt;</name>
+		<delivery>1 day</delivery>
+		<national>1</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>65</id>
+		<service_code>14</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Standard</name>
+		<delivery/>
+		<national>1</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>68</id>
+		<service_code>12</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Saver</name>
+		<delivery/>
+		<national>0</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>67</id>
+		<service_code>17</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Worldwide Express Plus&lt;sup&gt;SM&lt;/sup&gt;</name>
+		<delivery/>
+		<national>0</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>110</id>
+		<service_code>100</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Standard to Canada</name>
+		<delivery/>
+		<national>0</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>8</id>
+		<service_code>16</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Worldwide Express&lt;sup&gt;SM&lt;/sup&gt;</name>
+		<delivery>2 days</delivery>
+		<national>0</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>3</id>
+		<service_code>15</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Worldwide Expedited&lt;sup&gt;SM&lt;/sup&gt;</name>
+		<delivery/>
+		<national>0</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>104</id>
+		<service_code>8</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Express</name>
+		<delivery/>
+		<national>0</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>105</id>
+		<service_code>13</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Expedited&lt;sup&gt;SM&lt;/sup&gt;</name>
+		<delivery/>
+		<national>0</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>106</id>
+		<service_code>9</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Express Early A.M. &lt;sup&gt;SM&lt;/sup&gt;</name>
+		<delivery/>
+		<national>0</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>107</id>
+		<service_code>11</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Express Plus</name>
+		<delivery/>
+		<national>0</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>144</id>
+		<service_code>120</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Worldwide Express Saver®</name>
+		<delivery/>
+		<national>0</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>145</id>
+		<service_code>130</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Worldwide Saver®</name>
+		<delivery/>
+		<national>0</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+	<shipping_methods>
+		<id>146</id>
+		<service_code>140</service_code>
+		<shipper>ups</shipper>
+		<name>UPS Express Saver®</name>
+		<delivery/>
+		<national>0</national>
+		<limit_low>0.00</limit_low>
+		<limit_high>0.00</limit_high>
+		<active>1</active>
+	</shipping_methods>
+</root>

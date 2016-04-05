@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root><options><autoincrement>1</autoincrement></options><fields><ezparts_url/><partner_name/><passkey_name/><passkey_value/><dealer_account/><doorback_page/></fields><dealership><id>1</id><ezparts_url>https://parts.libertypumps.com/ezparts/login.aspx</ezparts_url><partner_name>Dealers</partner_name><passkey_name>welcome</passkey_name><passkey_value>false</passkey_value><dealer_account>SampleDealer</dealer_account><doorback_page>checkout/process</doorback_page></dealership></root>

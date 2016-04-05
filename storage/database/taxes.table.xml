@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root><options><autoincrement>1</autoincrement></options><fields><description/><display/><country/><state/><mode/><value/></fields><taxes><id>1</id><description>New York Tax</description><display>(8.00 % TAX)</display><country>US</country><state>NY</state><mode>total</mode><value>8</value></taxes></root>

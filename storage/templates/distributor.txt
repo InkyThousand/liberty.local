@@ -1,0 +1,9 @@
+Hello
+
+Here is your password for distributor area on %SITE%:
+
+%PASSWORD%
+
+Follow the next link and provide your credentials to log into Distributors area:
+
+%DISTRIBUTOR_LOGIN_PAGE%

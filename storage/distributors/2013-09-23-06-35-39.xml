@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <UserInfo>
+    <UserID>peter.cunningham@libertypumps.com</UserID>
+    <Password>dinkytheturtle2!</Password>
+    <Approved>true</Approved>
+    <PriceLevel>US Dist</PriceLevel>
+    <CustID>4039</CustID>
+  </UserInfo>
+  <UserInfo>
+    <UserID>bill.wu@libertypumps.com</UserID>
+    <Password>CalebCone579!</Password>
+    <Approved>true</Approved>
+    <PriceLevel>CA Dist</PriceLevel>
+    <CustID>4039</CustID>
+  </UserInfo>
+  <UserInfo>
+    <UserID>jacob.cone@libertypumps.com</UserID>
+    <Password>LibertyPumps21</Password>
+    <Approved>true</Approved>
+    <PriceLevel>CA Dist</PriceLevel>
+    <CustID>4039</CustID>
+  </UserInfo>
+  <UserInfo>
+    <UserID>edmund.sobresky@libertypumps.com</UserID>
+    <Password>ezpartsisgreat!</Password>
+    <Approved>true</Approved>
+    <PriceLevel>US Dist</PriceLevel>
+    <CustID>4039</CustID>
+  </UserInfo>
+  <UserInfo>
+    <UserID>barney.fife@libertypumps.com</UserID>
+    <Password>gomerpyle123!</Password>
+    <Approved>true</Approved>
+    <PriceLevel>US Dist</PriceLevel>
+    <CustID>4039</CustID>
+  </UserInfo>
+  <UserInfo>
+    <UserID>homer.simpson@libertypumps.com</UserID>
+    <Password>doh123!</Password>
+    <Approved>true</Approved>
+    <PriceLevel>US Dist</PriceLevel>
+    <CustID>4039</CustID>
+  </UserInfo>
+  <UserInfo>
+    <UserID>peter.griffin@libertypumps.com</UserID>
+    <Password>peter123!</Password>
+    <Approved>true</Approved>
+    <PriceLevel>US Dist</PriceLevel>
+    <CustID>4039</CustID>
+  </UserInfo>
+  <UserInfo>
+    <UserID>LISA.MORRILL@LIBERTYPUMPS.COM</UserID>
+    <Password>FAKE</Password>
+    <Approved>true</Approved>
+    <PriceLevel>US Dist</PriceLevel>
+    <CustID>8045</CustID>
+  </UserInfo>
+  <UserInfo>
+    <UserID>LISA.MORRILL@LIBERTYPUMPS.COM</UserID>
+    <Password>NUTCASE</Password>
+    <Approved>false</Approved>
+    <PriceLevel />
+    <CustID>8045*3</CustID>
+  </UserInfo>
+</DocumentElement>
